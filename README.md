@@ -1,5 +1,7 @@
 # Django Roadmap
-    this roadmap focus on how the backend works and how could you become a django developer with a very solid experince on how the backend works.
+    this roadmap focus on how the backend works 
+    and how could you become a django developer 
+    with a very solid experince on how the backend works.
 
 <br>
 
@@ -61,7 +63,7 @@ a method to print the user name, and method to print the user country.
 4. Create an abstract class , and write abstracted methods on it.
 ```
 
-3. `Data Structures`
+3. `Data Structures for beginners`
     - [Introdduction](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
     - [Big O Notation from codebasics ](https://www.youtube.com/watch?v=IR_S8BC8KI0&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=2)
     or [Big O Notation from cs dojo](https://www.youtube.com/watch?v=D6xkbGLQesk&t=28s) ( i recommend cs dojo )
@@ -104,13 +106,13 @@ search_for = 4
 6. `Django`
     - [What is Django](https://www.youtube.com/watch?v=t_p4ZyAYyaY&pp=ygUOd2hhdCBpcyBkamFuZ28%3D)
     - [Django Architecture](https://www.youtube.com/watch?v=xFkzKxQz9gE)
-    - [Starts with Django](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL) 1 -> 36
+    - [Starts in Django](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL) 1 -> 36
 
 
 
 ### Tasks
 ```
-By django you must implement : 
+By django you must implement three apps in one server and the apps are : 
 
     1. calculator
     2. number checker is even or odd 
