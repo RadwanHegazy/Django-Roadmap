@@ -63,7 +63,7 @@ a method to print the user name, and method to print the user country.
 4. Create an abstract class , and write abstracted methods on it.
 ```
 
-3. `Data Structures for beginners`
+<!-- 3. `Data Structures for beginners`
     - [Introdduction](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
     - [Big O Notation from codebasics ](https://www.youtube.com/watch?v=IR_S8BC8KI0&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=2)
     or [Big O Notation from cs dojo](https://www.youtube.com/watch?v=D6xkbGLQesk&t=28s) ( i recommend cs dojo )
@@ -100,10 +100,10 @@ search_for = 4
 5. `Networks`
     - [Network Basics](https://www.youtube.com/playlist?list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c) 
     - [Python Sockets](https://www.youtube.com/watch?v=YwWfKitB8aA)
-    - [Create A Simple HTTP Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk)    
+    - [Create A Simple HTTP Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk)     -->
 
 
-6. `Django`
+3. `Django`
     - [What is Django](https://www.youtube.com/watch?v=t_p4ZyAYyaY&pp=ygUOd2hhdCBpcyBkamFuZ28%3D)
     - [Django Architecture](https://www.youtube.com/watch?v=xFkzKxQz9gE)
     - [Starts in Django](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL) 1 -> 36
@@ -112,13 +112,59 @@ search_for = 4
 
 ### Tasks
 ```
-By django you must implement three apps in one server and the apps are : 
+Create todo system:
+    1. user can register
+    2. user can login
+    4. user can logout
+    5. each user has own Todos
+    6. user can add todo
+    7. user can delete his todo
+    8. user can update his todo
+    9. user can change the todo state to done
 
-    1. calculator
-    2. number checker is even or odd 
-    3. Simple todo app just implement thses pages : create task, update task, view all tasks and delete task
+Todo Model : 
+    - user [ForigenKey]
+    - text [TextField]
+    - is_done [BoolField]
+    - created_at [DateTimeField]
+
+Notes :
+    -> not matter how the design looks like, 
+        the important thing is the backend server and the system logic
+
 ```
-
 <b>
 
 # Intermediate
+
+4. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
+
+5. [DjangoORM](https://www.youtube.com/playlist?list=PLdLYbRBk3sGmWHmS4fYTucOImkssv8K3R)
+
+
+6. [REST APIs](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
+
+7. [Postman](https://www.youtube.com/watch?v=zD8HaT7uX5A)
+
+
+8. Django Rest Framework
+- - [Arabic](https://www.youtube.com/watch?v=TJnvIyk_7xU&list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3)
+- - [English](https://www.youtube.com/watch?v=tujhGdn1EMI)  ***recommend*** 
+
+
+9. [Django Serializers](https://www.youtube.com/watch?v=hSGVNlEmmyE)
+
+10. [JWT](https://www.youtube.com/watch?v=B-x7eeYtFIA)
+
+11. [JWT with DRF](https://www.youtube.com/watch?v=KLua_cYGLec)
+
+### Task
+
+```
+    Implement the previous todo task but use django rest framework to 
+    create your endpoints,use JWT for authentication ,and test 
+    theses endpoints using postman.
+```
+
+
+# Advanced
