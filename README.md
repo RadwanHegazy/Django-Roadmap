@@ -1,4 +1,4 @@
-# Django Roadmap
+# CIS Django Roadmap
     this roadmap focus on how the backend works 
     and how could you become a django developer 
     with a very solid experince on how the backend works.
@@ -108,7 +108,8 @@ search_for = 4
     - [Django Architecture](https://www.youtube.com/watch?v=xFkzKxQz9gE)
     - [Starts in Django](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL) 1 -> 36
 
-
+4. `Github` : 
+- - [Arabic Github Crash Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUOZ2l0aHViIGJpZ2RhdGE%3D) -> Highly Recommended
 
 ### Tasks
 ```
@@ -132,31 +133,33 @@ Notes :
     -> not matter how the design looks like, 
         the important thing is the backend server and the system logic
 
+    -> After you finish this task push it in your github account
 ```
 <b>
 
 # Intermediate
 
-4. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
+5. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
 
-5. [DjangoORM](https://www.youtube.com/playlist?list=PLdLYbRBk3sGmWHmS4fYTucOImkssv8K3R)
-
-
-6. [REST APIs](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
-
-7. [Postman](https://www.youtube.com/watch?v=zD8HaT7uX5A)
+6. [DjangoORM](https://www.youtube.com/playlist?list=PLdLYbRBk3sGmWHmS4fYTucOImkssv8K3R)
 
 
-8. Django Rest Framework
+7. [REST APIs](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
+
+8. [Postman](https://www.youtube.com/watch?v=zD8HaT7uX5A)
+
+
+9. Django Rest Framework
 - - [Arabic](https://www.youtube.com/watch?v=TJnvIyk_7xU&list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3)
 - - [English](https://www.youtube.com/watch?v=tujhGdn1EMI)  ***recommend*** 
 
 
-9. [Django Serializers](https://www.youtube.com/watch?v=hSGVNlEmmyE)
+10. [Django Serializers](https://www.youtube.com/watch?v=hSGVNlEmmyE)
 
-10. [JWT](https://www.youtube.com/watch?v=B-x7eeYtFIA)
+11. Tokenization with JWT 
+- 1. [JWT](https://www.youtube.com/watch?v=B-x7eeYtFIA)
+- 2. [JWT with DRF](https://www.youtube.com/watch?v=KLua_cYGLec)
 
-11. [JWT with DRF](https://www.youtube.com/watch?v=KLua_cYGLec)
 
 ### Task
 
