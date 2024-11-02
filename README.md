@@ -63,45 +63,6 @@ a method to print the user name, and method to print the user country.
 4. Create an abstract class , and write abstracted methods on it.
 ```
 
-<!-- 3. `Data Structures for beginners`
-    - [Introdduction](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
-    - [Big O Notation from codebasics ](https://www.youtube.com/watch?v=IR_S8BC8KI0&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=2)
-    or [Big O Notation from cs dojo](https://www.youtube.com/watch?v=D6xkbGLQesk&t=28s) ( i recommend cs dojo )
-    - [Arrays](https://www.youtube.com/watch?v=IR_S8BC8KI0&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=3)
-    - [Queue](https://www.youtube.com/watch?v=IR_S8BC8KI0&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=8)
-    - [Stack](https://www.youtube.com/watch?v=IR_S8BC8KI0&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=7)
-    - [Linked List](https://www.youtube.com/watch?v=IR_S8BC8KI0&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=2)
-
-
-### Tasks
-
-```
-Try to implement these data structure in your Django server:
-    1. Queue
-    2. Stack
-    3. Linked list
-```
-
-4. `Algorithims for beginners`
-    - [Recursion](https://www.youtube.com/watch?v=9bsK03SlmNM&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=20&pp=iAQB)
-    - [Binary Search](https://www.youtube.com/watch?v=GnZ9ppr_zaI&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=13&pp=iAQB)
-    - [Insertion Sort](https://www.youtube.com/watch?v=D6xkbGLQesk)
-    - [Shell Sort](https://www.youtube.com/watch?v=hhkLdjIimlw&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=19&pp=iAQB)
-
-### Tasks
-```python
-elements = [100,32,14,99,10000,32,14,10,3,313,4,59]
-search_for = 4
-
-# we need to sort this elements and search on it for number 4.
-# chooce the sorting and searching algorthims for doing that.
-```
-
-5. `Networks`
-    - [Network Basics](https://www.youtube.com/playlist?list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c) 
-    - [Python Sockets](https://www.youtube.com/watch?v=YwWfKitB8aA)
-    - [Create A Simple HTTP Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk)     -->
-
 
 3. `Django`
     - [What is Django](https://www.youtube.com/watch?v=t_p4ZyAYyaY&pp=ygUOd2hhdCBpcyBkamFuZ28%3D)
@@ -184,44 +145,48 @@ Notes :
 - - [Web Socket Introduction](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
 - - [Django Channels & Web socket](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
 
-15. [Web-RTC](https://www.youtube.com/watch?v=GKR0rsr05YY&pp=ygUHV2ViLVJUQw%3D%3D)
+15. [Celery & Celery Beat](https://www.youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 
-16. [Advanced DjangoORM](https://www.youtube.com/playlist?list=PL-2EBeDYMIbQXKsyNweppuFptuogJe2L-)
+16. [Web-RTC](https://www.youtube.com/watch?v=GKR0rsr05YY&pp=ygUHV2ViLVJUQw%3D%3D)
 
-19. Deployments
+17. [Advanced DjangoORM](https://www.youtube.com/playlist?list=PL-2EBeDYMIbQXKsyNweppuFptuogJe2L-)
+
+18. Deployments
 - - [Deploy Django to Render](https://www.youtube.com/watch?v=wczWm8j4v9w&t=859s&pp=ygUXZGVwbG95IGRqYW5nbyBvbiByZW5kZXI%3D)
 - - [Deploy Django to Railway](https://www.youtube.com/watch?v=AjKhxWgGpjY&t=732s&pp=ygUYZGVwbG95IGRqYW5nbyBpbiByYWlsd2F5)
 
 
 
-18. Nginx
+19. Nginx
 - - [Nginx Crash Course](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
 - - [Deploy Django With Nginx](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
 
-17. Docker
+20. Docker
 - - [Docker Crash Course](https://www.youtube.com/watch?v=PrusdhS2lmo&t=31285s&pp=ygUPZG9ja2VyIGJpZyBkYXRh) # just listen to docker the first 8 Hrs
 - - [Docker WIth Django](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
 
 ### Task
 ```
     Create a chat system.
-    Each user has her own profile and friends.
-    Users can send friend request to each others.
-    user can chat privetly with another user.
-    user can create rooms and add users to this room.
-    the room owner only can update room name and room image.
-    the room owner only can delete the room and remove users from it.
-    use django channels for implement the real-time chating.
-    use reids as a message broker.
-    use caching for cahce the msgs by Redis.
-    write unit testing files for the task.
-    use JWT for authentication.
-    use DRF for APIs.
-    write docs on postman.
-    push the project in your github account.
-    write a nice and readable README.md for descripe the project.
-    publish this project on Docker and run it.
-    deploy this project in Railway or render. 
+        Each user has her own profile and friends.
+        Users can send friend request to each others.
+        user can chat privetly with another user.
+        user can create rooms and add users to this room.
+        the room owner only can update room name and room image.
+        the room owner only can delete the room and remove users from it.
+        use django channels for implement the real-time chating.
+        add notification system for every new messages that has been sent.
+        create an action for send a one message for all your users by celery.
+        use redis as a message broker.
+        use caching for cahce the msgs by Redis.
+        write unit testing files for the task.
+        use JWT for authentication.
+        use DRF for APIs.
+        write docs on postman.
+        push the project in your github account.
+        write a nice and readable README.md for descripe the project.
+        publish this project on Docker and run it.
+        deploy this project in Railway or render. 
 ```
 
 ### What After that ?
@@ -241,4 +206,5 @@ your skills more and more :
 9. nice to ask then search on the internet.
 10. it's very cool to build your own projects with your own ideas.
 
-> Finally and what i want to say that the software world has no limit and there is more and more things you must to learn and on this big ocean of informations u must not to stop to learning.
+### **Finally** ❤️
+> what i want to say that the software world has no limit and there is more and more things you must to learn and on this big ocean of informations u must not to stop to learning and searching.
