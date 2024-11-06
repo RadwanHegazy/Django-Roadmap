@@ -191,20 +191,20 @@ Notes :
 
 ### What After that ?
 
-You now are qualified to start to search for work as a junior django developer.
-and for more information u need at least to read about these topics to imporve 
+You now are qualified to start to search for work as a junior Django developer.
+And for more information u need at least to read about these topics to improve 
 your skills more and more :
 
 1. Microservices
 2. System Design
-3. Dive into dbs especially PostgreSQL.
-4. get invloved more in Operations Systems especially in linux
+3. Dive into Databases, especially on PostgreSQL.
+4. get involved more in Operations Systems, especially on Linux
 5. read more about networks and how these protocols communicate with each others 
 6. Try to read books in the teach stack.
-7. Try to get invlovled with django community and python comunity whith their blogs and groups 
-8. Netwroking with other peopels has a good experince in the field and learn from their experince.
+7. Try to get involved with Django community and python community with their blogs and groups 
+8. Networking with other peoples has a good experience in the field and learn from their experience.
 9. nice to ask then search on the internet.
 10. it's very cool to build your own projects with your own ideas.
 
 ### **Finally** ❤️
-> what i want to say that the software world has no limit and there is more and more things you must to learn and on this big ocean of informations u must not to stop to learning and searching.
+> What I want to say that the software world has no limit and there is more and more things you have to learn and on this big ocean of information, u must not to stop to learning and searching.
