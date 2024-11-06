@@ -159,7 +159,7 @@ Notes :
 
 19. Nginx
 - - [Nginx Crash Course](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
-- - [Deploy Django With Nginx](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
+- - [Deploy Django With Nginx](https://www.youtube.com/watch?v=YnrgBeIRtvo&t=388s&pp=ygUYRGVwbG95IERqYW5nbyBXaXRoIE5naW54)
 
 20. Docker
 - - [Docker Crash Course](https://www.youtube.com/watch?v=PrusdhS2lmo&t=31285s&pp=ygUPZG9ja2VyIGJpZyBkYXRh) # just listen to docker the first 8 Hrs
