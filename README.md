@@ -143,7 +143,7 @@ Notes :
 
 14. Web Socket
 - - [Web Socket Introduction](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
-- - [Django Channels & Web socket](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
+- - [Django Channels & Web socket](https://www.youtube.com/watch?v=cw8-KFVXpTE)
 
 15. [Celery & Celery Beat](https://www.youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 
