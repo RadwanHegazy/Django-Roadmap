@@ -1,17 +1,13 @@
 # Django Roadmap
-    this roadmap focus on how the backend works 
-    and how could you become a django developer 
-    with a very solid experince on how the backend works.
-
-<br>
+this roadmap focus on how the backend works.
+And how could you become a django developer
+with a very solid experince on how the backend works.
 
 ### The goal of this roadmap is :
 1. Learn backend `fundamentals`
 2. Learn `Django`
-3. Learn the needed requirements as a `junior django developer`
+3. Learn the needed requirements as a `Junior Django Dev`
 
-
-<br>
 
 ## Let's Starting 🔥
 
@@ -25,10 +21,8 @@ feel free to choose 😊
 <!-- ### I Dvided the roadmap into three parts
 1. `beginner:` focus on how to build a python and how to test and calc the performance of your code. -->
 
-<br>
 
-
-# Beginner
+# Beginner 📚
 
 1. `Python Basics`
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) from 1 -> 80 (recommend 3 or 4 videos per day )
@@ -64,13 +58,20 @@ a method to print the user name, and method to print the user country.
 ```
 
 
-3. `Django`
+### **NOTE: Start in django and on the other side start in DSA**
+
+3. `Data Structure and Algorithms`
+    - [DSA Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+    - [Grooking Algorithms Book](./books/grokking-algorithms-illustrated-programmers-curious.pdf) 
+
+
+4. `Django`
     - [What is Django](https://www.youtube.com/watch?v=t_p4ZyAYyaY&pp=ygUOd2hhdCBpcyBkamFuZ28%3D)
     - [Django Architecture](https://www.youtube.com/watch?v=xFkzKxQz9gE)
     - [Starts in Django](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL) 1 -> 36
 
-4. `Github` : 
-- - [Arabic Github Crash Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUOZ2l0aHViIGJpZ2RhdGE%3D) -> Highly Recommended
+5. `Github` : 
+    - [Arabic Github Crash Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUOZ2l0aHViIGJpZ2RhdGE%3D) -> Highly Recommended
 
 ### Tasks
 ```
@@ -96,32 +97,42 @@ Notes :
 
     -> After you finish this task push it in your github account
 ```
-<b>
-
-# Intermediate
-
-5. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
-
-6. [DjangoORM](https://www.youtube.com/playlist?list=PLdLYbRBk3sGmWHmS4fYTucOImkssv8K3R)
 
 
-7. [REST APIs](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
+# Intermediate 🙌
 
-8. [Postman](https://www.youtube.com/watch?v=zD8HaT7uX5A)
+6. `Networks`
+    - [Network Basics](https://www.youtube.com/watch?v=q6tUCEUqxTQ&list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c)
+    - [OSI Model](https://www.youtube.com/watch?v=A31bxOyj5mk&pp=ygUST1NJIE1vZGVsIG1ldHdhbGx5)
+    - [Python Socket](https://www.youtube.com/watch?v=YwWfKitB8aA&pp=ygURcHl0aG9uIGFuZCBzb2NrZXQ%3D)
+    - [Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk&t=1s&pp=ygUaYnVpbGQgd2ViIHNlcnZlciBpbiBweXRob24%3D)
+
+7. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
+
+8. `Database`
+    - [SQL Crash course](https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygUYZGIgY3Jhc2ggY291cnNlIGdpcmFmZmUg)
+    - [Mongodb Crash Couse](https://www.youtube.com/watch?v=ofme2o29ngU&t=1526s&pp=ygUUbW9uZ29kYiBjcmFzaCBjb3Vyc2U%3D)
+    - [db ORM](https://www.youtube.com/watch?v=KthQ0UmBmxE&pp=ygUOd2hhdCBpcyBkYiBPUk0%3D)
+
+9. [DjangoORM](https://www.youtube.com/playlist?list=PLdLYbRBk3sGmWHmS4fYTucOImkssv8K3R)
+
+10. [REST APIs](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
+
+11. [Postman](https://www.youtube.com/watch?v=zD8HaT7uX5A)
 
 
-9. Django Rest Framework
-- - [Arabic](https://www.youtube.com/watch?v=TJnvIyk_7xU&list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3)
-- - [English](https://www.youtube.com/watch?v=tujhGdn1EMI)  ***recommend*** 
+12. `Django Rest Framework`
+    - [Arabic](https://www.youtube.com/watch?v=TJnvIyk_7xU&list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3)
+    - [English](https://www.youtube.com/watch?v=tujhGdn1EMI)  ***recommend*** 
 
 
-10. [Django Serializers](https://www.youtube.com/watch?v=hSGVNlEmmyE)
+13. [Django Serializers](https://www.youtube.com/watch?v=hSGVNlEmmyE)
 
-11. Tokenization with JWT 
-- 1. [JWT](https://www.youtube.com/watch?v=B-x7eeYtFIA)
-- 2. [JWT with DRF](https://www.youtube.com/watch?v=KLua_cYGLec)
+14. Tokenization with JWT 
+    1. [JWT](https://www.youtube.com/watch?v=B-x7eeYtFIA)
+    2. [JWT with DRF](https://www.youtube.com/watch?v=KLua_cYGLec)
 
-12. [Django Testing](https://www.youtube.com/playlist?list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM)
+15. [Django Testing](https://www.youtube.com/playlist?list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM)
 
 ### Task
 
@@ -134,36 +145,36 @@ Notes :
 ```
 
 
-# Advanced
+# Advanced 😎
 
-13. Caching
-- - [Caching & Redis Caching](https://www.youtube.com/watch?v=IjGbxl-ubLs&pp=ygUIY2FjaGluZyA%3D)
-- - [Redis Installtion on windows](https://www.youtube.com/watch?v=DLKzd3bvgt8&t=74s&pp=ygUScmVkaXMgaW5zdGFsbGF0aW9u)
-- - [Redis cache with drf](https://www.youtube.com/watch?v=tJVNUYvjTUk&t=13s&pp=ygUUcmVkaXMgY2FjaGUgd2l0aCBkcmY%3D)
+16. `Caching`
+    - [Caching & Redis Caching](https://www.youtube.com/watch?v=IjGbxl-ubLs&pp=ygUIY2FjaGluZyA%3D)
+    - [Redis Installtion on windows](https://www.youtube.com/watch?v=DLKzd3bvgt8&t=74s&pp=ygUScmVkaXMgaW5zdGFsbGF0aW9u)
+    - [Redis cache with drf](https://www.youtube.com/watch?v=tJVNUYvjTUk&t=13s&pp=ygUUcmVkaXMgY2FjaGUgd2l0aCBkcmY%3D)
 
-14. Web Socket
-- - [Web Socket Introduction](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
-- - [Django Channels & Web socket](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
+17. `Web Socket`
+    - [Web Socket Introduction](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
+    - [Django Channels & Web socket](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
 
-15. [Celery & Celery Beat](https://www.youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
+18. [Celery & Celery Beat](https://www.youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 
-16. [Web-RTC](https://www.youtube.com/watch?v=GKR0rsr05YY&pp=ygUHV2ViLVJUQw%3D%3D)
+19. [Web-RTC](https://www.youtube.com/watch?v=GKR0rsr05YY&pp=ygUHV2ViLVJUQw%3D%3D)
 
-17. [Advanced DjangoORM](https://www.youtube.com/playlist?list=PL-2EBeDYMIbQXKsyNweppuFptuogJe2L-)
+20. [Advanced DjangoORM](https://www.youtube.com/playlist?list=PL-2EBeDYMIbQXKsyNweppuFptuogJe2L-)
 
-18. Deployments
-- - [Deploy Django to Render](https://www.youtube.com/watch?v=wczWm8j4v9w&t=859s&pp=ygUXZGVwbG95IGRqYW5nbyBvbiByZW5kZXI%3D)
-- - [Deploy Django to Railway](https://www.youtube.com/watch?v=AjKhxWgGpjY&t=732s&pp=ygUYZGVwbG95IGRqYW5nbyBpbiByYWlsd2F5)
+21. `Deployments`
+    - [Deploy Django to Render](https://www.youtube.com/watch?v=wczWm8j4v9w&t=859s&pp=ygUXZGVwbG95IGRqYW5nbyBvbiByZW5kZXI%3D)
+    - [Deploy Django to Railway](https://www.youtube.com/watch?v=AjKhxWgGpjY&t=732s&pp=ygUYZGVwbG95IGRqYW5nbyBpbiByYWlsd2F5)
 
 
 
-19. Nginx
-- - [Nginx Crash Course](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
-- - [Deploy Django With Nginx](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
+22. `Nginx`
+    - [Nginx Crash Course](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
+    - [Deploy Django With Nginx](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
 
-20. Docker
-- - [Docker Crash Course](https://www.youtube.com/watch?v=PrusdhS2lmo&t=31285s&pp=ygUPZG9ja2VyIGJpZyBkYXRh) # just listen to docker the first 8 Hrs
-- - [Docker WIth Django](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
+23. `Docker`
+    - [Docker Crash Course](https://www.youtube.com/watch?v=PrusdhS2lmo&t=31285s&pp=ygUPZG9ja2VyIGJpZyBkYXRh) # just listen to docker the first 8 Hrs
+    - [Docker WIth Django](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
 
 ### Task
 ```
@@ -195,16 +206,16 @@ You now are qualified to start to search for work as a junior django developer.
 and for more information u need at least to read about these topics to imporve 
 your skills more and more :
 
-1. Microservices
+1. `Microservices`
 2. System Design
-3. Dive into dbs especially PostgreSQL.
-4. get invloved more in Operations Systems especially in linux
-5. read more about networks and how these protocols communicate with each others 
-6. Try to read books in the teach stack.
-7. Try to get invlovled with django community and python comunity whith their blogs and groups 
-8. Netwroking with other peopels has a good experince in the field and learn from their experince.
-9. nice to ask then search on the internet.
-10. it's very cool to build your own projects with your own ideas.
+3. Dive into dbs especially `PostgreSQL`.
+4. get invloved more in Operations Systems especially in `linux`
+5. read more about `networks` and how these protocols communicate with each others 
+6. Try to read `books` in the teach stack.
+7. Try to get invlovled with `django community` and python comunity whith their blogs and groups 
+8. `Netwroking` with other peopels has a good experince in the field and learn from their experince.
+9. nice to ask then `search` on the internet.
+10. it's very cool to build your own `projects` with your own `ideas`.
 
 ### **Finally** ❤️
 > what i want to say that the software world has no limit and there is more and more things you must to learn and on this big ocean of informations u must not to stop to learning and searching.
