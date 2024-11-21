@@ -3,11 +3,14 @@ this roadmap focus on how the backend works.
 And how could you become a django developer
 with a very solid experince on how the backend works.
 
+
 ### The goal of this roadmap is :
 1. Learn backend `fundamentals`
 2. Learn `Django`
 3. Learn the needed requirements as a `Junior Django Dev`
 
+
+### NOTE: This roadmap is for only django devs, and the steps of these roadmap was taken from the main one [here](https://metwallylabs.com/backendroadmap.html)
 
 ## Let's Starting 🔥
 
