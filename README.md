@@ -106,7 +106,7 @@ Just Listen to these vides before starting on intermediate level.
 1. [How CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA&pp=ygUNaG93IGNwdSB3b3Jrcw%3D%3D)
 2. [How Memory Works](https://www.youtube.com/watch?v=p3q5zWCw8J4&pp=ygUQaG93IG1lbW9yeSB3b3Jrcw%3D%3D)
 3. [How Variable Works in python under the hood](https://www.youtube.com/watch?v=0Om2gYU6clE&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
-4. [How Pyton interact with memory](https://www.youtube.com/watch?v=URNdRl97q_0&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
+4. [How Python interact with memory](https://www.youtube.com/watch?v=URNdRl97q_0&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
 5. [Python Interpreter](https://www.youtube.com/watch?v=BkHdmAhapws&pp=ygUQaG93IHB5dGhvbiB3b3Jrcw%3D%3D)
 6. [Threading Vs Process in python](https://www.youtube.com/watch?v=AZnGRKFUU0c&pp=ygUbdGhyZWFkIHZzIHByb2Nlc3MgaW4gcHl0aG9u)
 7. [Python GIL](https://www.youtube.com/watch?v=XVcRQ6T9RHo&pp=ygUKcHl0aG9uIGdpbA%3D%3D)
@@ -115,7 +115,7 @@ Just Listen to these vides before starting on intermediate level.
 ### Task
 
 ```
-    Write a linkedin post on what have u understand on each video from these vides.
+    Write a linkedin post on what have u understand on each video from these videos.
 ```
 
 ---
