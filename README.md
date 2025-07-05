@@ -125,8 +125,10 @@ Just Listen to these vides before starting on intermediate level.
 6. `Networks`
     - [Network Basics](https://www.youtube.com/watch?v=q6tUCEUqxTQ&list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c)
     - [OSI Model](https://www.youtube.com/watch?v=A31bxOyj5mk&pp=ygUST1NJIE1vZGVsIG1ldHdhbGx5)
+    - [HTTP Protocol](https://www.youtube.com/watch?v=pi4gaFDBtMc&pp=ygUNaHR0cCBwcm90b2NvbA%3D%3D)
     - [Python Socket](https://www.youtube.com/watch?v=YwWfKitB8aA&pp=ygURcHl0aG9uIGFuZCBzb2NrZXQ%3D)
     - [Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk&t=1s&pp=ygUaYnVpbGQgd2ViIHNlcnZlciBpbiBweXRob24%3D)
+
 
 7. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
 
