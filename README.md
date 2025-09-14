@@ -23,48 +23,9 @@ feel free to choose 😊
 
 
 # Beginner 📚
-1. `Git&Github` : 
-    - [Arabic Github Crash Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUOZ2l0aHViIGJpZ2RhdGE%3D) -> Highly Recommended
-    - [Markdown](https://www.youtube.com/watch?v=_PPWWRV6gbA)
-    - [Commit Messages](https://www.youtube.com/watch?v=XMqPHAq4xkQ)
-    - [.gitignore](https://www.youtube.com/watch?v=3dnC85b7CTQ)
+
       
-2. `Networks`
-    - [Network Basics](https://www.youtube.com/watch?v=q6tUCEUqxTQ&list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c)
-    - [OSI Model](https://www.youtube.com/watch?v=A31bxOyj5mk&pp=ygUST1NJIE1vZGVsIG1ldHdhbGx5)
-    - [HTTP Protocol](https://www.youtube.com/watch?v=pi4gaFDBtMc&pp=ygUNaHR0cCBwcm90b2NvbA%3D%3D)
-    - [Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk&t=1s&pp=ygUaYnVpbGQgd2ViIHNlcnZlciBpbiBweXRob24%3D)
-      
-3. `Database`
-    - [Normalization](https://www.youtube.com/watch?v=1HEHa_EJa0k&pp=ygUXZGIgbm9ybWFsaXphdGlvbiBhcmFiaWM%3D)
-    - [SQL Crash course](https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygUYZGIgY3Jhc2ggY291cnNlIGdpcmFmZmUg)
-    - [Mongodb Crash Couse](https://www.youtube.com/watch?v=ofme2o29ngU&t=1526s&pp=ygUUbW9uZ29kYiBjcmFzaCBjb3Vyc2U%3D)
-    - [ORM](https://www.youtube.com/watch?v=KthQ0UmBmxE&pp=ygUOd2hhdCBpcyBkYiBPUk0%3D)
-
-
-
-
-4. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
-
-
-
----
-### Listening List
-Just Listen to these vides before starting on intermediate level.
-1. [How CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA&pp=ygUNaG93IGNwdSB3b3Jrcw%3D%3D)
-2. [How Memory Works](https://www.youtube.com/watch?v=p3q5zWCw8J4&pp=ygUQaG93IG1lbW9yeSB3b3Jrcw%3D%3D)
-
-### Task
-
-```
-    Write a linkedin post on what have u understand on each video from these videos.
-```
-
----
-
-# Intermediate 🙌
-      
-5. `Python Basics`
+1. `Python Basics`
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) from 1 -> 80 (recommend 3 or 4 videos per day )
     - English [Free Codecamp](https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
@@ -76,7 +37,7 @@ Just Listen to these vides before starting on intermediate level.
 ```
 
 
-6. `Python OOP`
+2. `Python OOP`
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T)
     - English : [Bro Code](https://www.youtube.com/watch?v=IbMDCwVm63M)
 
@@ -98,30 +59,70 @@ a method to print the user name, and method to print the user country.
 ```
 
 
+3. `Database`
+    - [SQL Crash course](https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygUYZGIgY3Jhc2ggY291cnNlIGdpcmFmZmUg)
+    - [Normalization](https://www.youtube.com/watch?v=1HEHa_EJa0k&pp=ygUXZGIgbm9ybWFsaXphdGlvbiBhcmFiaWM%3D)
+    - [Mongodb Crash Couse](https://www.youtube.com/watch?v=ofme2o29ngU&t=1526s&pp=ygUUbW9uZ29kYiBjcmFzaCBjb3Vyc2U%3D)
+    - [ORM](https://www.youtube.com/watch?v=KthQ0UmBmxE&pp=ygUOd2hhdCBpcyBkYiBPUk0%3D)
+
+
+
 ### **NOTE: Start in django and on the other side start in DSA**
 
-7. `Data Structure and Algorithms`
+4. `Data Structure and Algorithms`
     - [DSA Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
     - [Grooking Algorithms Book](./books/grokking-algorithms-illustrated-programmers-curious.pdf)
       
-###Deep in python
-1. [How Variable Works in python under the hood](https://www.youtube.com/watch?v=0Om2gYU6clE&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
-2. [How Python interact with memory](https://www.youtube.com/watch?v=URNdRl97q_0&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
-3. [Python Interpreter](https://www.youtube.com/watch?v=BkHdmAhapws&pp=ygUQaG93IHB5dGhvbiB3b3Jrcw%3D%3D)
-4. [Threading Vs Process in python](https://www.youtube.com/watch?v=AZnGRKFUU0c&pp=ygUbdGhyZWFkIHZzIHByb2Nlc3MgaW4gcHl0aG9u)
-5. [Python GIL](https://www.youtube.com/watch?v=XVcRQ6T9RHo&pp=ygUKcHl0aG9uIGdpbA%3D%3D)
-6. [Python Socket](https://www.youtube.com/watch?v=YwWfKitB8aA&pp=ygURcHl0aG9uIGFuZCBzb2NrZXQ%3D)
+
    
-8. `Django`
+5. `Django`
     - [What is Django](https://www.youtube.com/watch?v=t_p4ZyAYyaY&pp=ygUOd2hhdCBpcyBkamFuZ28%3D)
     - [Django Architecture](https://www.youtube.com/watch?v=xFkzKxQz9gE)
     - [Starts in Django](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL) 1 -> 36
+     
       
+
+6. `Git&Github` : 
+    - [Arabic Github Crash Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUOZ2l0aHViIGJpZ2RhdGE%3D) -> Highly Recommended
+    - [Markdown](https://www.youtube.com/watch?v=_PPWWRV6gbA)
+    - [Commit Messages](https://www.youtube.com/watch?v=XMqPHAq4xkQ)
+    - [.gitignore](https://www.youtube.com/watch?v=3dnC85b7CTQ)
+      
+7. `Networks`
+    - [Network Basics](https://www.youtube.com/watch?v=q6tUCEUqxTQ&list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c)
+    - [OSI Model](https://www.youtube.com/watch?v=A31bxOyj5mk&pp=ygUST1NJIE1vZGVsIG1ldHdhbGx5)
+    - [HTTP Protocol](https://www.youtube.com/watch?v=pi4gaFDBtMc&pp=ygUNaHR0cCBwcm90b2NvbA%3D%3D)
+    - [Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk&t=1s&pp=ygUaYnVpbGQgd2ViIHNlcnZlciBpbiBweXRob24%3D)
+      
+
+
+---
+### Listening List
+Just Listen to these vides before starting on intermediate level.
+1. [How CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA&pp=ygUNaG93IGNwdSB3b3Jrcw%3D%3D)
+2. [How Memory Works](https://www.youtube.com/watch?v=p3q5zWCw8J4&pp=ygUQaG93IG1lbW9yeSB3b3Jrcw%3D%3D)
+3. [How Variable Works in python under the hood](https://www.youtube.com/watch?v=0Om2gYU6clE&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
+4. [How Python interact with memory](https://www.youtube.com/watch?v=URNdRl97q_0&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
+5. [Python Interpreter](https://www.youtube.com/watch?v=BkHdmAhapws&pp=ygUQaG93IHB5dGhvbiB3b3Jrcw%3D%3D)
+6. [Threading Vs Process in python](https://www.youtube.com/watch?v=AZnGRKFUU0c&pp=ygUbdGhyZWFkIHZzIHByb2Nlc3MgaW4gcHl0aG9u)
+7. [Python GIL](https://www.youtube.com/watch?v=XVcRQ6T9RHo&pp=ygUKcHl0aG9uIGdpbA%3D%3D)
+8. [Python Socket](https://www.youtube.com/watch?v=YwWfKitB8aA&pp=ygURcHl0aG9uIGFuZCBzb2NrZXQ%3D)
+
+### Task
+
+```
+    Write a linkedin post on what have u understand on each video from these videos.
+```
+
+
+# Intermediate 🙌
+
 9. [DjangoORM](https://www.youtube.com/playlist?list=PLdLYbRBk3sGmWHmS4fYTucOImkssv8K3R)
 
 10. [REST APIs](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
 
 11. [Postman](https://www.youtube.com/watch?v=zD8HaT7uX5A)
+
 
 
 12. `Django Rest Framework`
@@ -130,6 +131,8 @@ a method to print the user name, and method to print the user country.
 
 
 13. [Django Serializers](https://www.youtube.com/watch?v=hSGVNlEmmyE)
+
+4. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
 
 14. `Json Web Token (JWT)` 
     1. [JWT](https://www.youtube.com/watch?v=B-x7eeYtFIA)
