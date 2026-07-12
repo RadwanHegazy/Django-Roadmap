@@ -91,7 +91,9 @@ a method to print the user name, and method to print the user country.
 7. `Networks`
     - [Network Basics](https://www.youtube.com/watch?v=q6tUCEUqxTQ&list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c)
     - [OSI Model](https://www.youtube.com/watch?v=A31bxOyj5mk&pp=ygUST1NJIE1vZGVsIG1ldHdhbGx5)
-    - [HTTP Protocol](https://www.youtube.com/watch?v=pi4gaFDBtMc&pp=ygUNaHR0cCBwcm90b2NvbA%3D%3D)
+    - HTTP Protocol :
+           [Step 1](https://www.youtube.com/watch?v=pi4gaFDBtMc&pp=ygUNaHR0cCBwcm90b2NvbA%3D%3D)
+          , [Step 2](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview)
     - [Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk&t=1s&pp=ygUaYnVpbGQgd2ViIHNlcnZlciBpbiBweXRob24%3D)
       
 
