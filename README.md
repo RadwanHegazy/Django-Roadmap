@@ -174,7 +174,8 @@ and edit on it.
 17. `Caching`
     - [Caching & Redis Caching](https://www.youtube.com/watch?v=IjGbxl-ubLs&pp=ygUIY2FjaGluZyA%3D)
     - [Redis Installtion on windows](https://www.youtube.com/watch?v=DLKzd3bvgt8&t=74s&pp=ygUScmVkaXMgaW5zdGFsbGF0aW9u)
-    - [Redis cache with drf](https://www.youtube.com/watch?v=tJVNUYvjTUk&t=13s&pp=ygUUcmVkaXMgY2FjaGUgd2l0aCBkcmY%3D)
+    - [Redis Crash Course](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
+    - [Redis cache with DRF](https://medium.com/@prashantmaharjan5/complete-guide-to-add-redis-caching-to-your-django-rest-api-454143cb2fa1)
 
 18. `Web Socket`
     - [Web Socket Introduction](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
