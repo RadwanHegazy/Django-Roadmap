@@ -179,7 +179,7 @@ and edit on it.
 
 18. `Web Socket`
     - [Web Socket Introduction](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
-    - [Django Channels & Web socket](https://www.youtube.com/watch?v=G0_e02DdH7I&pp=ygULd2ViIHNvY2tldHM%3D)
+    - [Web socket in DRF](https://www.youtube.com/watch?v=qnlicgTBfLQ)
 
 19. [Celery & Celery Beat](https://www.youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 
