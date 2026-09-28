@@ -194,16 +194,17 @@ and edit on it.
     - [Deploy Django to Railway](https://www.youtube.com/watch?v=AjKhxWgGpjY&t=732s&pp=ygUYZGVwbG95IGRqYW5nbyBpbiByYWlsd2F5)
 
 24. `Nginx`
-    - [Nginx Crash Course](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
-    - [Deploy Django With Nginx](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
+      1. [Nginx Crash Course Video](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR) or [Read This Article for Nginx](https://www.freecodecamp.org/news/the-nginx-handbook/)
 
-25. `Docker`
+      2. [Deploy Django With Nginx](https://www.youtube.com/playlist?list=PLHXG_yQQf1HVFWNsZyxIASDCJMjkRUWuR)
+
+26. `Docker`
     - [Docker Crash Course](https://www.youtube.com/watch?v=PrusdhS2lmo&t=31285s&pp=ygUPZG9ja2VyIGJpZyBkYXRh) # just listen to docker the first 8 Hrs
     - [Docker WIth Django](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
 
-26. [AWS Crash Course](https://www.youtube.com/playlist?list=PL9nWRykSBSFggui3a4UPprVtfqIDad-dx)
+27. [AWS Crash Course](https://www.youtube.com/playlist?list=PL9nWRykSBSFggui3a4UPprVtfqIDad-dx)
 
-27. `Design Patterns`
+28. `Design Patterns`
     >  in this playlist just listen only to `structural & behavioural design pattern`.
     - [Structural & Behavioural Design Pattern](https://www.youtube.com/@devgeeksacademy3340)
 
